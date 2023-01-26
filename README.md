@@ -45,7 +45,7 @@ print("After circulating the values are:",circulate())
 
 
 ## Output:
-![](./nvariables.png)
+![](circulate1.png)
 
 ## Result:
 Thus the circulation n variables is successfully executed
